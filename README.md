@@ -2,6 +2,9 @@
 
 Welcome to the **Grade Book Application**, a Python-based tool designed to manage and analyze student grades efficiently. This application provides various functionalities to calculate averages and generate rankings for subjects and students. Here’s a step-by-step guide to help you navigate and utilize the Grade Book Application effectively.
 
+## Grade Book App Demo
+![ Python-Dziennik-Ocen](demo/GradeBook.gif)
+
 ## Features
 
 1. **Calculate Average Grade for a Subject**
